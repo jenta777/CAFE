@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Cafe PWA",
+  "description": "A modern progressive web app for a cafe with AI-powered recommendations, admin dashboard, and simulated payment gateway.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
